@@ -16,7 +16,7 @@
                 echo '<script>alert("accueillir à nouveau")</script>';
                 header("Location: home.html");
             }else{
-                echo '<script>alert("Les données saisies sont incorrectes")</script>';
+                echo '<script>alert("Les donnéees saisies sont incorrectes")</script>';
             }
         }
     }
